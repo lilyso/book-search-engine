@@ -1,7 +1,7 @@
 # Book Search Engine
 
 > A Google Books API search engine made with React, a GraphQL API built with Apollo Server and MongoDB - MERN stack.
-> Live demo [_here_](https://www.example.com).
+> Live demo [_here_](https://git.heroku.com/limitless-bastion-13348.git).
 
 ## Table of Contents
 
@@ -15,11 +15,14 @@
 
 ## Technologies Used
 
+- MongoDB, Mongoose
+- Express.js
 - React
+- Node.js
 - GraphQL
 - Apollo Server
-- MongoDB, Mongoose
 - JWT
+- JavaScript
 
 ## Features
 
