@@ -1,7 +1,7 @@
 # MERN Book Search Engine
 
 > A Google Books API search engine made with React, a GraphQL API built with Apollo Server and MongoDB - MERN stack.
-> Live demo [_here_](https://limitless-bastion-13348.herokuapp.com/).
+> Live demo [_here_](https://desolate-oasis-15283.herokuapp.com/).
 
 ## Table of Contents
 
